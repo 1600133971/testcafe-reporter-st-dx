@@ -19,7 +19,7 @@ $(function(){
     },
     "export": {
       enabled: true,
-      fileName: "Employees",
+      fileName: "testcafe_result",
       allowExportSelectedData: true
     },
     paging: {
@@ -32,6 +32,29 @@ $(function(){
       {
         dataField: "Result",
         width: 100,
+        cellTemplate: function (container, options) {
+          if (options.value == "passed") {
+            $("<div style=\"background-color:#02C874\">")
+              .append($("<i>", { "class": "fa fa-check fa-fw" }))
+              .append(options.value)
+              .appendTo(container);
+          } else if (options.value == "skipped") {
+            $("<div style=\"background-color:#BEBEBE\">")
+              .append($("<i>", { "class": "fa fa-minus fa-fw" }))
+              .append(options.value)
+              .appendTo(container);
+          } else if (options.value == "failed") {
+            $("<div style=\"background-color:#EA0000\">")
+              .append($("<i>", { "class": "fa fa-close fa-fw" }))
+              .append(options.value)
+              .appendTo(container);
+          } else {
+            $("<div style=\"background-color:#000000\">")
+              .append($("<i>", { "class": "fa fa-info fa-fw" }))
+              .append(options.value)
+              .appendTo(container);
+          }
+        }
       },
       {
         dataField: "Test",
