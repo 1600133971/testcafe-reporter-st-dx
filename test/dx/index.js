@@ -3,7 +3,7 @@ $(function(){
   var dataGrid = $("#gridContainer").dxDataGrid({
     dataSource: customers,
     allowColumnReordering: true,
-    showColumnLines: false,
+    showColumnLines: true,
     showRowLines: true,
     rowAlternationEnabled: true,
     showBorders: true,
@@ -28,8 +28,7 @@ $(function(){
     groupPanel: {
       visible: true
     },
-    columns: [
-      {
+    columns: [{
         dataField: "Result",
         width: 100,
         cellTemplate: function (container, options) {
@@ -55,18 +54,14 @@ $(function(){
               .appendTo(container);
           }
         }
-      },
-      {
+      },{
         dataField: "Test",
-      },
-      {
+      },{
         dataField: "Fixture",
-      },
-      {
+      },{
         dataField: "Browsers",
         width: 300,
-      },
-      {
+      },{
         dataField: "Duration",
         width: 100,
         alignment: "right",
