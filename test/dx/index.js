@@ -88,7 +88,7 @@ $(function(){
 
   $("#column-lines").dxCheckBox({
     text: "Show Column Lines",
-    value: false,
+    value: true,
     onValueChanged: function(data) {
       dataGrid.option("showColumnLines", data.value);
     }
