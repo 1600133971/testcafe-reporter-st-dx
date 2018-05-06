@@ -33,22 +33,22 @@ $(function(){
         width: 100,
         cellTemplate: function (container, options) {
           if (options.value == "passed") {
-            $("<div style=\"background-color:#02C874\">")
+            $("<div style=\"color:#02C874\">")
               .append($("<i>", { "class": "fa fa-check fa-fw" }))
               .append(options.value)
               .appendTo(container);
           } else if (options.value == "skipped") {
-            $("<div style=\"background-color:#BEBEBE\">")
+            $("<div style=\"color:#BEBEBE\">")
               .append($("<i>", { "class": "fa fa-minus fa-fw" }))
               .append(options.value)
               .appendTo(container);
           } else if (options.value == "failed") {
-            $("<div style=\"background-color:#EA0000\">")
+            $("<div style=\"color:#EA0000\">")
               .append($("<i>", { "class": "fa fa-close fa-fw" }))
               .append(options.value)
               .appendTo(container);
           } else {
-            $("<div style=\"background-color:#000000\">")
+            $("<div style=\"color:#000000\">")
               .append($("<i>", { "class": "fa fa-info fa-fw" }))
               .append(options.value)
               .appendTo(container);
