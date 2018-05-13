@@ -17,6 +17,13 @@ $(function(){
     selection: {
       mode: "multiple"
     },
+    onSelectionChanged: function(e) {
+      var data = e.selectedRowsData[0];
+      if(data && data.Result == "failed") {
+        e.component.collapseAll(-1);
+        e.component.expandRow(e.currentSelectedRowKeys[0]);
+      }
+    },
     "export": {
       enabled: true,
       fileName: "testcafe_result",
@@ -59,7 +66,7 @@ $(function(){
       },{
         dataField: "Fixture",
       },{
-        dataField: "Browsers",
+        dataField: "Browser",
         width: 300,
       },{
         dataField: "Duration",
@@ -68,11 +75,11 @@ $(function(){
       }
     ],
     masterDetail: {
-      enabled: true,
+      enabled: false,
       template: function(container, options) { 
         var currentEmployeeData = options.data;
         if (currentEmployeeData.Result == 'failed') {
-          container.append($('<div class="employeeInfo"><img class="employeePhoto" src="' + currentEmployeeData.Browsers + '" /><p class="employeeNotes">' + currentEmployeeData.Duration + '</p></div>'));
+          container.append($('<div>' + currentEmployeeData.Report + '</div>'));
         }
       }
     }
