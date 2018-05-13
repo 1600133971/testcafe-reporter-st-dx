@@ -5,7 +5,7 @@ var customers =
   "Test":"My first test 1",
   "Fixture":"Getting Started",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"1s 284ms",
+  "Duration":"1s 332ms",
   "Report":"",
  },
  {
@@ -13,7 +13,7 @@ var customers =
   "Test":"My first test 2",
   "Fixture":"Getting Started",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"1s 434ms",
+  "Duration":"1s 334ms",
   "Report":"",
  },
  {
@@ -21,7 +21,7 @@ var customers =
   "Test":"My first test 3",
   "Fixture":"Getting Started",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"1s 419ms",
+  "Duration":"1s 496ms",
   "Report":"",
  },
  {
@@ -29,7 +29,7 @@ var customers =
   "Test":"My first test 4",
   "Fixture":"Getting Started",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"850ms",
+  "Duration":"841ms",
   "Report":"",
  },
  {
@@ -37,7 +37,7 @@ var customers =
   "Test":"My first test 5",
   "Fixture":"Getting Started",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"840ms",
+  "Duration":"835ms",
   "Report":"",
  },
  {
@@ -45,7 +45,7 @@ var customers =
   "Test":"My first test 6",
   "Fixture":"Getting Started",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"875ms",
+  "Duration":"843ms",
   "Report":"",
  },
  {
@@ -53,7 +53,7 @@ var customers =
   "Test":"My first test 7",
   "Fixture":"Getting Started",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"836ms",
+  "Duration":"852ms",
   "Report":"",
  },
  {
@@ -61,7 +61,7 @@ var customers =
   "Test":"My first test 8",
   "Fixture":"Getting Started",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"853ms",
+  "Duration":"851ms",
   "Report":"",
  },
  {
@@ -69,7 +69,7 @@ var customers =
   "Test":"My first test 9",
   "Fixture":"Getting Started",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"883ms",
+  "Duration":"846ms",
   "Report":"",
  },
  {
@@ -77,7 +77,7 @@ var customers =
   "Test":"My first test 10",
   "Fixture":"Getting Started",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"874ms",
+  "Duration":"853ms",
   "Report":"",
  },
  {
@@ -85,7 +85,7 @@ var customers =
   "Test":"My first test screenshot",
   "Fixture":"Getting Started",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"1s 616ms",
+  "Duration":"1s 695ms",
   "Report":"",
  },
  {
@@ -93,7 +93,7 @@ var customers =
   "Test":"My first test 1s",
   "Fixture":"Getting Started",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"1s 543ms",
+  "Duration":"1s 504ms",
   "Report":"",
  },
  {
@@ -101,7 +101,7 @@ var customers =
   "Test":"My first skip",
   "Fixture":"Getting Started",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"970ms",
+  "Duration":"903ms",
   "Report":"",
  },
  {
@@ -109,7 +109,7 @@ var customers =
   "Test":"My first error",
   "Fixture":"Getting Started",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"4s 409ms",
+  "Duration":"4s 332ms",
   "Report":"<pre>\
 AssertionError: expected 'Thank you, John Smith!' to deeply equal 'Thank you, John Smith2!'\n\
 \n\
@@ -137,7 +137,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My first warning",
   "Fixture":"Getting Started",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"3s 694ms",
+  "Duration":"3s 796ms",
   "Report":"",
  },
  {
@@ -145,7 +145,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My second test 1",
   "Fixture":"Getting second",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"3s 443ms",
+  "Duration":"3s 433ms",
   "Report":"",
  },
  {
@@ -153,7 +153,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My second test 2",
   "Fixture":"Getting second",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"2s 779ms",
+  "Duration":"2s 840ms",
   "Report":"",
  },
  {
@@ -161,7 +161,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My second test 3",
   "Fixture":"Getting second",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"2s 619ms",
+  "Duration":"2s 568ms",
   "Report":"",
  },
  {
@@ -169,7 +169,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My second test 4",
   "Fixture":"Getting second",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"1s 969ms",
+  "Duration":"1s 981ms",
   "Report":"",
  },
  {
@@ -177,7 +177,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My second test 5",
   "Fixture":"Getting second",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"1s 806ms",
+  "Duration":"1s 716ms",
   "Report":"",
  },
  {
@@ -185,7 +185,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My second test 6",
   "Fixture":"Getting second",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"1s 140ms",
+  "Duration":"1s 156ms",
   "Report":"",
  },
  {
@@ -193,7 +193,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My second test 7",
   "Fixture":"Getting second",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"976ms",
+  "Duration":"881ms",
   "Report":"",
  },
  {
@@ -201,7 +201,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My second test 8",
   "Fixture":"Getting second",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"810ms",
+  "Duration":"793ms",
   "Report":"",
  },
  {
@@ -209,7 +209,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My second test 9",
   "Fixture":"Getting second",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"849ms",
+  "Duration":"840ms",
   "Report":"",
  },
  {
@@ -217,7 +217,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My second test 10",
   "Fixture":"Getting second",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"844ms",
+  "Duration":"843ms",
   "Report":"",
  },
  {
@@ -225,7 +225,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My second skip",
   "Fixture":"Getting second",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"358ms",
+  "Duration":"383ms",
   "Report":"",
  },
  {
@@ -233,7 +233,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My second error",
   "Fixture":"Getting second",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"4s 317ms",
+  "Duration":"4s 242ms",
   "Report":"<pre>\
 AssertionError: expected 'Thank you, John Smith!' to deeply equal 'Thank you, John Smith2!'\n\
 \n\
@@ -258,7 +258,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My first test 1",
   "Fixture":"Getting third",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"4s 103ms",
+  "Duration":"3s 934ms",
   "Report":"",
  },
  {
@@ -266,7 +266,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My first skip",
   "Fixture":"Getting third",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"3s 959ms",
+  "Duration":"3s 865ms",
   "Report":"",
  },
  {
@@ -274,7 +274,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My first error",
   "Fixture":"Getting third",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"4s 255ms",
+  "Duration":"4s 257ms",
   "Report":"<pre>\
 AssertionError: expected 'Thank you, John Smith!' to deeply equal 'Thank you, John Smith2!'\n\
 \n\
@@ -302,7 +302,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My first skip2",
   "Fixture":"Getting third",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"3s 579ms",
+  "Duration":"3s 476ms",
   "Report":"",
  },
  {
@@ -310,7 +310,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 1",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"3s 578ms",
+  "Duration":"3s 476ms",
   "Report":"",
  },
  {
@@ -318,7 +318,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 2",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"2s 713ms",
+  "Duration":"2s 639ms",
   "Report":"",
  },
  {
@@ -326,7 +326,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 3",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"1s 918ms",
+  "Duration":"1s 818ms",
   "Report":"",
  },
  {
@@ -334,7 +334,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 4",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"1s 063ms",
+  "Duration":"993ms",
   "Report":"",
  },
  {
@@ -342,7 +342,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 5",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"812ms",
+  "Duration":"827ms",
   "Report":"",
  },
  {
@@ -350,7 +350,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 6",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"828ms",
+  "Duration":"816ms",
   "Report":"",
  },
  {
@@ -358,7 +358,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 7",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"881ms",
+  "Duration":"837ms",
   "Report":"",
  },
  {
@@ -366,7 +366,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 8",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"845ms",
+  "Duration":"836ms",
   "Report":"",
  },
  {
@@ -374,7 +374,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 9",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"832ms",
+  "Duration":"857ms",
   "Report":"",
  },
  {
@@ -382,7 +382,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 10",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"850ms",
+  "Duration":"836ms",
   "Report":"",
  },
  {
@@ -390,7 +390,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 11",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"881ms",
+  "Duration":"821ms",
   "Report":"",
  },
  {
@@ -398,7 +398,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 12",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"879ms",
+  "Duration":"857ms",
   "Report":"",
  },
  {
@@ -406,7 +406,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 13",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"858ms",
+  "Duration":"814ms",
   "Report":"",
  },
  {
@@ -414,7 +414,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 14",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"841ms",
+  "Duration":"827ms",
   "Report":"",
  },
  {
@@ -422,7 +422,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 15",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"834ms",
+  "Duration":"821ms",
   "Report":"",
  },
  {
@@ -430,7 +430,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 16",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"828ms",
+  "Duration":"840ms",
   "Report":"",
  },
  {
@@ -438,7 +438,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 17",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"838ms",
+  "Duration":"832ms",
   "Report":"",
  },
  {
@@ -446,7 +446,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 18",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"847ms",
+  "Duration":"851ms",
   "Report":"",
  },
  {
@@ -454,7 +454,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 19",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"837ms",
+  "Duration":"866ms",
   "Report":"",
  },
  {
@@ -462,7 +462,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 20",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"839ms",
+  "Duration":"855ms",
   "Report":"",
  },
  {
@@ -470,7 +470,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 21",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"858ms",
+  "Duration":"823ms",
   "Report":"",
  },
  {
@@ -478,7 +478,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 22",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"865ms",
+  "Duration":"808ms",
   "Report":"",
  },
  {
@@ -486,7 +486,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 23",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"858ms",
+  "Duration":"797ms",
   "Report":"",
  },
  {
@@ -494,7 +494,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 24",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"820ms",
+  "Duration":"810ms",
   "Report":"",
  },
  {
@@ -502,7 +502,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 25",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"864ms",
+  "Duration":"831ms",
   "Report":"",
  },
  {
@@ -510,7 +510,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 26",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"827ms",
+  "Duration":"818ms",
   "Report":"",
  },
  {
@@ -518,7 +518,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 27",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"865ms",
+  "Duration":"817ms",
   "Report":"",
  },
  {
@@ -526,7 +526,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 28",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"815ms",
+  "Duration":"826ms",
   "Report":"",
  },
  {
@@ -534,7 +534,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 29",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"825ms",
+  "Duration":"826ms",
   "Report":"",
  },
  {
@@ -542,7 +542,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 30",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"829ms",
+  "Duration":"870ms",
   "Report":"",
  },
  {
@@ -550,7 +550,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 31",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"858ms",
+  "Duration":"838ms",
   "Report":"",
  },
  {
@@ -566,7 +566,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 33",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"841ms",
+  "Duration":"821ms",
   "Report":"",
  },
  {
@@ -574,7 +574,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 34",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"844ms",
+  "Duration":"819ms",
   "Report":"",
  },
  {
@@ -582,7 +582,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 35",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"832ms",
+  "Duration":"822ms",
   "Report":"",
  },
  {
@@ -590,7 +590,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 36",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"838ms",
+  "Duration":"835ms",
   "Report":"",
  },
  {
@@ -598,7 +598,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 37",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"829ms",
+  "Duration":"837ms",
   "Report":"",
  },
  {
@@ -606,7 +606,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 38",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"833ms",
+  "Duration":"818ms",
   "Report":"",
  },
  {
@@ -614,7 +614,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 39",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"843ms",
+  "Duration":"871ms",
   "Report":"",
  },
  {
@@ -622,7 +622,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 40",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"857ms",
+  "Duration":"853ms",
   "Report":"",
  },
  {
@@ -630,7 +630,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 41",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"844ms",
+  "Duration":"800ms",
   "Report":"",
  },
  {
@@ -638,7 +638,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 42",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"841ms",
+  "Duration":"832ms",
   "Report":"",
  },
  {
@@ -646,7 +646,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 43",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"828ms",
+  "Duration":"812ms",
   "Report":"",
  },
  {
@@ -654,7 +654,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 44",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"831ms",
+  "Duration":"828ms",
   "Report":"",
  },
  {
@@ -662,7 +662,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 45",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"839ms",
+  "Duration":"834ms",
   "Report":"",
  },
  {
@@ -670,7 +670,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 46",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"827ms",
+  "Duration":"838ms",
   "Report":"",
  },
  {
@@ -678,7 +678,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 47",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"839ms",
+  "Duration":"849ms",
   "Report":"",
  },
  {
@@ -686,7 +686,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 48",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"856ms",
+  "Duration":"834ms",
   "Report":"",
  },
  {
@@ -694,7 +694,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 49",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"867ms",
+  "Duration":"849ms",
   "Report":"",
  },
  {
@@ -702,7 +702,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 50",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"835ms",
+  "Duration":"818ms",
   "Report":"",
  },
  {
@@ -710,7 +710,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 51",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"860ms",
+  "Duration":"838ms",
   "Report":"",
  },
  {
@@ -718,7 +718,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 52",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"819ms",
+  "Duration":"828ms",
   "Report":"",
  },
  {
@@ -726,7 +726,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 53",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"825ms",
+  "Duration":"821ms",
   "Report":"",
  },
  {
@@ -734,7 +734,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 54",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"828ms",
+  "Duration":"812ms",
   "Report":"",
  },
  {
@@ -742,7 +742,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 55",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"836ms",
+  "Duration":"830ms",
   "Report":"",
  },
  {
@@ -750,7 +750,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 56",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"860ms",
+  "Duration":"852ms",
   "Report":"",
  },
  {
@@ -758,7 +758,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 57",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"868ms",
+  "Duration":"836ms",
   "Report":"",
  },
  {
@@ -766,7 +766,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 58",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"864ms",
+  "Duration":"851ms",
   "Report":"",
  },
  {
@@ -774,7 +774,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 59",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"844ms",
+  "Duration":"840ms",
   "Report":"",
  },
  {
@@ -782,7 +782,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 60",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"833ms",
+  "Duration":"857ms",
   "Report":"",
  },
  {
@@ -798,7 +798,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 62",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"845ms",
+  "Duration":"825ms",
   "Report":"",
  },
  {
@@ -806,7 +806,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 63",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"873ms",
+  "Duration":"875ms",
   "Report":"",
  },
  {
@@ -814,7 +814,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 64",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"851ms",
+  "Duration":"859ms",
   "Report":"",
  },
  {
@@ -822,7 +822,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 65",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"818ms",
+  "Duration":"830ms",
   "Report":"",
  },
  {
@@ -830,7 +830,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 66",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"813ms",
+  "Duration":"816ms",
   "Report":"",
  },
  {
@@ -838,7 +838,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 67",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"824ms",
+  "Duration":"849ms",
   "Report":"",
  },
  {
@@ -846,7 +846,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 68",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"823ms",
+  "Duration":"825ms",
   "Report":"",
  },
  {
@@ -854,7 +854,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 69",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"865ms",
+  "Duration":"839ms",
   "Report":"",
  },
  {
@@ -862,7 +862,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 70",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"867ms",
+  "Duration":"831ms",
   "Report":"",
  },
  {
@@ -870,7 +870,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 71",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"832ms",
+  "Duration":"827ms",
   "Report":"",
  },
  {
@@ -878,7 +878,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 72",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"844ms",
+  "Duration":"833ms",
   "Report":"",
  },
  {
@@ -886,7 +886,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 73",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"838ms",
+  "Duration":"877ms",
   "Report":"",
  },
  {
@@ -894,7 +894,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 74",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"818ms",
+  "Duration":"826ms",
   "Report":"",
  },
  {
@@ -902,7 +902,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 75",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"837ms",
+  "Duration":"818ms",
   "Report":"",
  },
  {
@@ -910,7 +910,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 76",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"892ms",
+  "Duration":"825ms",
   "Report":"",
  },
  {
@@ -918,7 +918,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 77",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"861ms",
+  "Duration":"821ms",
   "Report":"",
  },
  {
@@ -926,7 +926,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 78",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"886ms",
+  "Duration":"831ms",
   "Report":"",
  },
  {
@@ -934,7 +934,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 79",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"818ms",
+  "Duration":"854ms",
   "Report":"",
  },
  {
@@ -942,7 +942,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 80",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"824ms",
+  "Duration":"836ms",
   "Report":"",
  },
  {
@@ -950,7 +950,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 81",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"851ms",
+  "Duration":"835ms",
   "Report":"",
  },
  {
@@ -958,7 +958,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 82",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"844ms",
+  "Duration":"839ms",
   "Report":"",
  },
  {
@@ -966,7 +966,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 83",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"836ms",
+  "Duration":"820ms",
   "Report":"",
  },
  {
@@ -974,7 +974,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 84",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"826ms",
+  "Duration":"833ms",
   "Report":"",
  },
  {
@@ -982,7 +982,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 85",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"872ms",
+  "Duration":"861ms",
   "Report":"",
  },
  {
@@ -990,7 +990,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 86",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"865ms",
+  "Duration":"869ms",
   "Report":"",
  },
  {
@@ -998,7 +998,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 87",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"857ms",
+  "Duration":"858ms",
   "Report":"",
  },
  {
@@ -1006,7 +1006,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 88",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"828ms",
+  "Duration":"823ms",
   "Report":"",
  },
  {
@@ -1014,7 +1014,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 89",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"822ms",
+  "Duration":"830ms",
   "Report":"",
  },
  {
@@ -1022,7 +1022,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 90",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"835ms",
+  "Duration":"833ms",
   "Report":"",
  },
  {
@@ -1030,7 +1030,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 91",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"845ms",
+  "Duration":"841ms",
   "Report":"",
  },
  {
@@ -1038,7 +1038,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 92",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"845ms",
+  "Duration":"852ms",
   "Report":"",
  },
  {
@@ -1046,7 +1046,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 93",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"890ms",
+  "Duration":"843ms",
   "Report":"",
  },
  {
@@ -1054,7 +1054,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 94",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"835ms",
+  "Duration":"853ms",
   "Report":"",
  },
  {
@@ -1062,7 +1062,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 95",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"843ms",
+  "Duration":"815ms",
   "Report":"",
  },
  {
@@ -1070,7 +1070,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 96",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"825ms",
+  "Duration":"824ms",
   "Report":"",
  },
  {
@@ -1078,7 +1078,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 97",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"850ms",
+  "Duration":"810ms",
   "Report":"",
  },
  {
@@ -1086,7 +1086,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 98",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"814ms",
+  "Duration":"837ms",
   "Report":"",
  },
  {
@@ -1094,7 +1094,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 99",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"856ms",
+  "Duration":"817ms",
   "Report":"",
  },
  {
@@ -1102,7 +1102,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 100",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"865ms",
+  "Duration":"860ms",
   "Report":"",
  },
  {
@@ -1110,7 +1110,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 101",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"862ms",
+  "Duration":"830ms",
   "Report":"",
  },
  {
@@ -1118,7 +1118,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 102",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"831ms",
+  "Duration":"841ms",
   "Report":"",
  },
  {
@@ -1126,7 +1126,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 103",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"888ms",
+  "Duration":"856ms",
   "Report":"",
  },
  {
@@ -1134,7 +1134,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 104",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"837ms",
+  "Duration":"823ms",
   "Report":"",
  },
  {
@@ -1142,7 +1142,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 105",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"824ms",
+  "Duration":"833ms",
   "Report":"",
  },
  {
@@ -1150,7 +1150,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 106",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"842ms",
+  "Duration":"857ms",
   "Report":"",
  },
  {
@@ -1158,7 +1158,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 107",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"863ms",
+  "Duration":"829ms",
   "Report":"",
  },
  {
@@ -1166,7 +1166,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 108",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"839ms",
+  "Duration":"832ms",
   "Report":"",
  },
  {
@@ -1174,7 +1174,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 109",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"858ms",
+  "Duration":"854ms",
   "Report":"",
  },
  {
@@ -1182,7 +1182,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 110",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"819ms",
+  "Duration":"827ms",
   "Report":"",
  },
  {
@@ -1190,7 +1190,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 111",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"840ms",
+  "Duration":"825ms",
   "Report":"",
  },
  {
@@ -1198,7 +1198,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 112",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"915ms",
+  "Duration":"848ms",
   "Report":"",
  },
  {
@@ -1206,7 +1206,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 113",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"880ms",
+  "Duration":"839ms",
   "Report":"",
  },
  {
@@ -1214,7 +1214,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 114",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"881ms",
+  "Duration":"833ms",
   "Report":"",
  },
  {
@@ -1222,7 +1222,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 115",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"862ms",
+  "Duration":"820ms",
   "Report":"",
  },
  {
@@ -1230,7 +1230,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 116",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"830ms",
+  "Duration":"836ms",
   "Report":"",
  },
  {
@@ -1238,7 +1238,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 117",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"826ms",
+  "Duration":"847ms",
   "Report":"",
  },
  {
@@ -1246,7 +1246,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 118",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"826ms",
+  "Duration":"877ms",
   "Report":"",
  },
  {
@@ -1254,7 +1254,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 119",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"863ms",
+  "Duration":"840ms",
   "Report":"",
  },
  {
@@ -1262,7 +1262,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 120",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"826ms",
+  "Duration":"840ms",
   "Report":"",
  },
  {
@@ -1270,7 +1270,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 121",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"842ms",
+  "Duration":"844ms",
   "Report":"",
  },
  {
@@ -1278,7 +1278,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 122",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"827ms",
+  "Duration":"856ms",
   "Report":"",
  },
  {
@@ -1286,7 +1286,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 123",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"845ms",
+  "Duration":"834ms",
   "Report":"",
  },
  {
@@ -1294,7 +1294,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 124",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"827ms",
+  "Duration":"845ms",
   "Report":"",
  },
  {
@@ -1302,7 +1302,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 125",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"833ms",
+  "Duration":"825ms",
   "Report":"",
  },
  {
@@ -1310,7 +1310,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 126",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"826ms",
+  "Duration":"833ms",
   "Report":"",
  },
  {
@@ -1318,7 +1318,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 127",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"828ms",
+  "Duration":"869ms",
   "Report":"",
  },
  {
@@ -1326,7 +1326,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 128",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"840ms",
+  "Duration":"835ms",
   "Report":"",
  },
  {
@@ -1334,7 +1334,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 129",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"824ms",
+  "Duration":"831ms",
   "Report":"",
  },
  {
@@ -1342,7 +1342,7 @@ Browser: HeadlessChrome 67.0.3371 / Windows 7.0.0\n\
   "Test":"My fourth test 130",
   "Fixture":"Getting fourth",
   "Browser":"HeadlessChrome 67.0.3371 / Windows 7.0.0",
-  "Duration":"819ms",
+  "Duration":"804ms",
   "Report":"",
  },
 
